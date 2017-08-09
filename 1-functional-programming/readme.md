@@ -134,3 +134,4 @@ module.exports = getShortMessages
 
 - [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [Do you want to be a Functional Programmer? So, check this series](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+- [Functional Programming Basics in es6](https://www.youtube.com/watch?v=HvMemAgOw6I)

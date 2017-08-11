@@ -135,3 +135,7 @@ module.exports = getShortMessages
 - [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [Do you want to be a Functional Programmer? So, check this series](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Functional Programming Basics in es6](https://www.youtube.com/watch?v=HvMemAgOw6I)
+
+## Attendees
+| [<img src="https://avatars3.githubusercontent.com/u/20744476?v=4" width="75px;"/><br /><sub><small>Harlen Giraldo</small></sub>](https://github.com/H4isan)<br /> | [<img src="https://avatars3.githubusercontent.com/u/18565471?v=4" width="75px;"/><br /><sub>Angela Ordoñez</sub>](https://github.com/angelitaooo)<br /> | [<img src="https://avatars0.githubusercontent.com/u/30100043?v=4" width="75px;"/><br /><sub>Juan Rendon</sub>](https://github.com/jnrndn)<br /> | [<img src="https://avatars0.githubusercontent.com/u/15000558?v=4" width="75px;"/><br /><sub>Ricardo Rojas</sub>](https://github.com/ricardo-yuxi)<br /> | [<img src="https://avatars3.githubusercontent.com/u/7031018?v=4" width="75px;"/><br /><sub>Juan Villa</sub>](https://github.com/jevvilla)<br /> | [<img src="https://avatars2.githubusercontent.com/u/7871402?v=4" width="75px;"/><br /><sub>Dayro Longas</sub>](https://github.com/dgiovannyl)<br /> | [<img src="https://avatars0.githubusercontent.com/u/17012545?v=3" width="75px;"/><br /><sub>Laura Ciro</sub>](https://github.com/ltciro)<br /> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
